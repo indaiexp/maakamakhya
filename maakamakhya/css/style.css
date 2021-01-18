@@ -762,7 +762,7 @@ h6 {
 --------------------------------*/
 
 #call-to-action {
-  background: #2d2b46;
+  background: rgba(201, 50, 50,1);;
   background-size: cover;
   padding: 40px 0;
 }
