@@ -1,5 +1,5 @@
 /*
-  Theme Name: PANKAJ
+  Theme Name: Indai
   Theme URL: https://bootstrapmade.com/pankaj-multipurpose-bootstrap-business-template/
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
@@ -1608,8 +1608,12 @@ h6 {
     text-align: left;
     padding-top: 15px;
     left: 0;
-    top: 5%;
+    top: 22%;
     width: 100%;
+  }
+
+  .banner-block p{
+    margin-bottom: 10px;
   }
 
   #intro .intro-info h2 {
